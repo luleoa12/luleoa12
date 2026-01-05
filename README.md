@@ -1,4 +1,4 @@
-# Hi, I'm Leo! 👋
+# Hey, I'm Leo! 👋
 
 Founder of MakeCore | Competitive Programmer | Sophomore in Highschool
 
@@ -12,15 +12,38 @@ Founder of MakeCore | Competitive Programmer | Sophomore in Highschool
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ## 🚀 Currently Working On
-- Competitive programming problems (USACO)  
+- Competitive Programming (USACO)  
 - Hackathons
   
-## ⭐ Top Projects
-- [**LeetCode Exporter CLI**](https://github.com/luleoa12/LeetCode-Exporter) - Export your LeetCode solutions to local files easily. 
-- [**MakeCore**](https://makecore.org) - Platform for sharing MakeCode Arcade and Scratch projects
-- [**Competitive Programming Repo**](https://github.com/luleoa12/Competitive-Programming) - Algorithms and data structure practice.
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=luleoa12)](https://git.io/streak-stats)
+## ⭐ Featured Projects
+- [**LeetCode Exporter CLI**](https://github.com/luleoa12/LeetCode-Exporter) - Export your LeetCode solutions to local files easily
+- [**MakeCore**](https://makecore.org) - Platform for sharing MakeCode Arcade and Scratch programs
+- [**Competitive Programming Repo**](https://github.com/luleoa12/Competitive-Programming) - Algorithms and data structure practice
 
 ## 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=luleoa12&show_icons=true&theme=radical)](https://github.com/luleoa12)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img
+          src="https://github-readme-stats-gold-eta-81.vercel.app/api/top-langs?username=luleoa12&layout=compact&langs_count=8&card_width=320&hide_border=true&border_radius=8&bg_color=00000000"
+          width="360"
+          height="190"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://github-readme-streak-stats-one-lac.vercel.app?user=luleoa12&hide_border=true&border_radius=8&background=00000000"
+          width="600"
+          height="220"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
